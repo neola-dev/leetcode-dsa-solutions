@@ -29,15 +29,14 @@ I focus on:
 ## 📂 Folder Structure
 
 leetcode-dsa-solutions/
-
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Graphs/
-└── DynamicProgramming/
+1-Arrays/
+2-Strings/
+3-LinkedList/
+4-Stack/
+5-Queue/
+6-Trees/
+7-Graphs/
+8-DynamicProgramming/
 
 ---
 
